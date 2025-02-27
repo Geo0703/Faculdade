@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Algoritmo {
 
     public static void main(String[] args) {
-
+        
         Scanner sc = new Scanner(System.in);
 
         double[] notas = new double[7];
