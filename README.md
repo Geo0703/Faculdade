@@ -13,7 +13,7 @@ href="https://github.com/Geo0703/Faculdade/tree/main/Modelagem%20de%20software">
 
 * <a href="https://github.com/Geo0703/Faculdade/tree/main/Modelos%2C%20m%C3%A9todos%20e%20t%C3%A9cnicas%20da%20engenharia%20de%20software">**Modelos, métodos e técnicas da engenharia de software**</a>:
 
-* <a href="https://github.com/Geo0703/Faculdade/tree/main/Sistemas%20computacionais%20e%20segurana">**Sistemas computacionais e segurança**</a>:
+* <a href="https://github.com/Geo0703/Faculdade/tree/main/Sistemas%20Computacionais%20e%20Seguran%C3%A7a">**Sistemas Computacionais e Segurança**</a>:
 
 
 _**Agradeço sua Visita**_ :slightly_smiling_face:
