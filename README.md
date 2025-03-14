@@ -6,4 +6,6 @@ O repositório está organizado em pastas, cada uma representando uma Unidade Cu
 
 * <a href="https://github.com/Geo0703/Faculdade/tree/main/Gestão%20e%20Qualidade%20de%20Software">**Gestão e Qualidade de Software**</a>: Onde tem alguns Trabalhos e documentos que Apresentei.
 
+* <a href="https://github.com/Geo0703/Faculdade/tree/main/Ambientes%20computacionais%20e%20conectividade">**Ambientes computacionais e conectividade**</a>:
+
 _**Agradeço sua Visita**_ :slightly_smiling_face:
