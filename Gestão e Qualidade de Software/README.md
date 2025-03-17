@@ -11,7 +11,7 @@
    * Riscos
    * Segurança
 
-<a href="https://github.com/Geo0703/Faculdade/tree/main/Gestão%20e%20Qualidade%20de%20Software/Atividade%20-%20Conceito%20de%20Tecnicas%20de%20Revisão%20de%20Software">**Atividade - Conceito de Tecnicas de Revisão de Software**</a>: Pesquisa Feita em sala que Aborda Temas como:
+**[Atividade - Conceito de Tecnicas de Revisão de Software](https://github.com/Geo0703/Faculdade/tree/main/Gestão%20e%20Qualidade%20de%20Software/Atividade%20-%20Conceito%20de%20Tecnicas%20de%20Revisão%20de%20Software)**</a>: Pesquisa Feita em sala que Aborda Temas como:
 * Conceitos de Tecnicas de Revisao de Software
 * Técnicas de Processo
 * Técnicas de Desenvolvimento
