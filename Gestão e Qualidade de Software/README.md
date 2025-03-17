@@ -17,7 +17,7 @@
 * Técnicas de Desenvolvimento
 * Técnicas de Qualidade
 
-**[Conceitos de Garantia de Qualidade de Software: ](https://github.com/Geo0703/Faculdade/tree/main/Gestão%20e%20Qualidade%20de%20Software/Atividade%2002%20-%20Conceitos%20de%20Garantia%20de%20Qualidade%20de%20Software)**  Pesquisa Feita em sala que Aborda Temas como:
+**[ Atividade 02 - Conceitos de Garantia de Qualidade de Software: ](https://github.com/Geo0703/Faculdade/tree/main/Gestão%20e%20Qualidade%20de%20Software/Atividade%2002%20-%20Conceitos%20de%20Garantia%20de%20Qualidade%20de%20Software)**  Pesquisa Feita em sala que Aborda Temas como:
  * Garantia de Qualidade de Software (SQA)
  * Componentes da SQA
  * Técnicas de SQA
