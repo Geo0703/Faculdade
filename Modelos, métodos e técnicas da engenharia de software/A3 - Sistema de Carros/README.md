@@ -26,10 +26,8 @@ Tudo isso para tornar o gerenciamento de viagens mais eficiente, organizado e co
 ## 📂 Componentes do Sistema
 
 - **Frontend:** Interface amigável para usuários realizarem solicitações e acompanharem seus pedidos.
-- **Backend:** Lógica de negócios, controle de fluxo de aprovação e gerenciamento de dados.
-- **Banco de Dados:** Armazenamento seguro e estruturado das informações das viagens, usuários e aprovações.
-- **Módulo de Notificações:** Envio de alertas e atualizações via e-mail ou sistema interno.
-- **Dashboard Administrativo:** Ferramenta para gestores monitorarem e gerenciarem todas as operações.
+- **Documentação:** Documentação e Diagrama do Sistema.
+
 
 ---
 
@@ -41,8 +39,3 @@ Tudo isso para tornar o gerenciamento de viagens mais eficiente, organizado e co
 - Melhoria na comunicação entre todos os envolvidos
 - Facilitação da tomada de decisão com base em dados reais
 
----
-
-## 📥 Como Utilizar
-
-1. Clone este repositório:
