@@ -2,9 +2,11 @@
 
 ###
 
+<h1 align="left">Atividades </h1>
 <p align="left">Neste diretório você encontrara Trabalhos, pesquisas e projetos feito ao longo do Semestre:</p>
 
 ###
+
 **[Atividade 01 - O DILEMA DA QUALIDADE DE SOFTWARE](https://github.com/Geo0703/Faculdade/tree/main/Gestão%20e%20Qualidade%20de%20Software/Atividade%2001%20-%20O%20DILEMA%20DA%20QUALIDADE%20DE%20SOFTWARE)** Esta pasta tem a primeira Apresentação do Semestre uma pesquisa e uma apresentação de Slide onde abordamos Sobre alguns pontos como:
    * Software "Bom o Suficiente";
    * Custo da Qualidade;
@@ -48,6 +50,15 @@
 * como criar Métricas
 * Tipos de Métricas
 
+
 **[ Atividade 09 - Técnicas de Decomposição](https://github.com/Geo0703/Faculdade/tree/main/Gest%C3%A3o%20e%20Qualidade%20de%20Software/T%C3%A9cnicas%20de%20Deacomposi%C3%A7%C3%A3o)** Pesquisa Feita em Sala que Aborda Temas como:
 * Estimativa de itens
   
+###
+
+<h1 align="left">Trabalho Final </h1>
+<p align="left">Neste diretório você encontrara um trabalho onde Demonstramos um pouco o conhecimento que Adquirimos Durante o Semestre</p>
+
+###
+**[ A3](https://github.com/Geo0703/Faculdade/tree/main/Gest%C3%A3o%20e%20Qualidade%20de%20Software/A3)**
+
