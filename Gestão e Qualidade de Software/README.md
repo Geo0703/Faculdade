@@ -1,6 +1,10 @@
 <h1 align="left">Gestão e Qualidade de Software</h1>
 
 ###
+ 
+ 
+ 
+
 
 <h1 align="left">Atividades </h1>
 <p align="left">Neste diretório você encontrara Trabalhos, pesquisas e projetos feito ao longo do Semestre:</p>
